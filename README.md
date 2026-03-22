@@ -1,2 +1,0 @@
-# PritiDasFinalProject_1st
-
