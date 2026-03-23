@@ -1,0 +1,10 @@
+
+1) Url of the login page .... http://localhost/Hospital-Management-Dashboard/login.php
+
+2) Url of the Dashboard .... http://localhost/Hospital-Management-Dashboard/dashboard.php 
+
+
+For loging here is the access: username- alice , Password- AdminAlice!123  | username- bob , Password- AdminBob!321  | username- charlie , Password- AdminCharlie!321
+
+
+Hospital-Management-Dashboard  (when this file you will copay and paste inside htdoc then it will run only and also "XAMPP Control Panel" you need to run on the other hand)
